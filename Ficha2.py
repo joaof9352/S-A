@@ -1,5 +1,5 @@
 '''
-  Python script that writes mouse movements and clicks to a file and sends them to an Adafruit feed
+  Python script that logs mouse movements and clicks and sends them to an Adafruit feed
 '''
 
 from pynput import mouse
